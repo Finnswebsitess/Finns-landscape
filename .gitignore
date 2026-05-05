@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+*.log
+*.env
+
+# Next.js
+.next/
+out/
+
+# IDE Exclusions
+.vscode/
+.idea/
+*.iml
